@@ -69,7 +69,7 @@ Compare the simulation results with the theoretical calculations and discuss any
 ## CALCULATION 
 
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
-<img width="1007" height="1083" alt="image" src="https://github.com/user-attachments/assets/e9267df7-8f27-4b79-a576-1e559a81f865" />
+<img width="1007" height="1600" alt="image" src="https://github.com/user-attachments/assets/ff863eae-f758-4665-82d1-e566aef1eff9" />
 
 
 ## RESULT
