@@ -54,7 +54,10 @@ Place and connect the following components:
 - Set the parameters and run the simulation.  
 - Use the visualizer displays to measure:  
   - FWHM width of input and output pulses  
-  - FWHM width of optical spectra  
+  - FWHM width of optical spectra
+ 
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ebcdf92-2857-403c-94c8-c355fc7f51a3" />
+
 
 ---
 
@@ -63,8 +66,16 @@ Compare the simulation results with the theoretical calculations and discuss any
 
 
 ---
- Results to Record
+## CALCULATION 
+
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
+<img width="1007" height="1083" alt="image" src="https://github.com/user-attachments/assets/e9267df7-8f27-4b79-a576-1e559a81f865" />
+
+
+## RESULT
+The theoretical broadening ratio ($\sigma_{\text{out}}/\sigma_{\text{in}}$) for a chirped Gaussian pulse over $50\text{ km}$ of SMF-28 fiber was calculated using the linear system model formulas. The OptiSystem simulation confirmed these analytical results, showing precise agreement between the measured input/output pulse widths and the expected broadening profile influenced by the negative laser chirp factor.
+
+
 
 
 
